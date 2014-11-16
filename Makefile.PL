@@ -19,7 +19,8 @@ WriteMakefile(
 }
 ,
   PREREQ_PM => {
-  'Carton' => '1.0'
+  'Carton' => '1.0',
+  'perl' => '5.010001'
 }
 ,
   test => { TESTS => 't/*.t' },

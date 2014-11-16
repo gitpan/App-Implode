@@ -19,8 +19,9 @@ no_index:
     - inc
 requires:
   Carton: 1.0
+  perl: 5.010001
 resources:
   bugtracker: https://github.com/jhthorsen/app-implode/issues
   homepage: https://github.com/jhthorsen/app-implode
   repository: https://github.com/jhthorsen/app-implode.git
-version: 0.02
+version: 0.03
